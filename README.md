@@ -3,10 +3,10 @@
 # 프로젝트 소개
 
 ![image](https://github.com/user-attachments/assets/f8608ad5-50f3-4310-b894-f3e6fe00bd78)
-![image](https://github.com/user-attachments/assets/769131df-cf0b-4747-8061-dca0ef16fe5b)
+![image](https://github.com/user-attachments/assets/b2c28f41-c883-41e1-8efb-935a9d15c37b)
 ![image](https://github.com/user-attachments/assets/c47c84bc-e7d7-41a8-b9f8-96af4c6b39c9)
-![image](https://github.com/user-attachments/assets/f9ac2c12-7932-40e3-a07a-5d5a1cea217b)
-![image](https://github.com/user-attachments/assets/14b6c8fc-ecba-41a6-8cad-01af494941b9)
+![image](https://github.com/user-attachments/assets/dc86a487-dbe9-4d74-909e-d80f3f0da983)
+![image](https://github.com/user-attachments/assets/a0ff9faf-6f5f-4c46-93c4-79c58638b214)
 
 -   현지인 가이드 매칭 서비스입니다.
 
